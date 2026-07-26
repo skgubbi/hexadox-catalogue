@@ -13,39 +13,39 @@ const products = {
 
     trichology:[
 
-        "Mincaffin F.png",
-        "Tufhair Tablets.png",
-        "Tufhair Serum.png",
-        "Mincaffin Oral Tablets.png",
-        "Mincaffin + Hair Solution.png",
-        "Hexaphyte P Shampoo.png"
+        "mincaffin-f.png",
+        "tufhair-tablets.png",
+        "tufhair-serum.png",
+        "mincaffin-oral-tablets.png",
+        "mincaffin-plus.png",
+        "hexaphyte-p-shampoo.png"
 
     ],
 
 
     cosmetology:[
 
-        "Neoshield Ultra + Lotion.png",
-        "Neohidrate Cream.png",
-        "Hydradew Max Cream.png",
-        "Hydradew Lotion.png",
-        "HPPL Octiwash.png",
-        "Hexasoft Syndet Bar.png"
+        "neoshield-ultra-plus-50.png",
+        "neohidrate-cream.png",
+        "hydradew-max-cream.png",
+        "hydradew-lotion.png",
+        "octiwash.png",
+        "hexasoft-syndet-bar.png"
 
     ],
 
 
     clinical:[
 
-        "Zerophyte Cream.png",
-        "Reticlear Gel.png",
-        "Lulidox Cream.png",
-        "Isohex Capsules.png",
-        "Hexsalic Cream.png",
-        "Hexaspor Capsules.png",
-        "Grisohex 500 Tablets.png",
-        "Bacticort H Cream.png",
-        "Antihistamines.png"
+        "zerophyte-cream.png",
+        "reticlear-gel.png",
+        "lulidox-cream.png",
+        "isohex-c.png",
+        "hexsalic-cream.png",
+        "hexaspor-caps.png",
+        "grisohex-500-tablets.png",
+        "bacticort-h-cream.png",
+        "antihistamines.png"
 
     ]
 
