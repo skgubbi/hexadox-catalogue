@@ -40,7 +40,7 @@ const products = {
         "zerophyte-cream.png",
         "reticlear-gel.png",
         "lulidox-cream.png",
-        "isohex-c.png",
+        "isohex-caps.png",
         "hexsalic-cream.png",
         "hexaspor-caps.png",
         "grisohex-500-tablets.png",
