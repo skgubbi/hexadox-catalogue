@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>HEXADOX Dermatology Catalogue</title>
 
 <link rel="stylesheet" href="style.css">
 
@@ -13,43 +14,92 @@
 
 
 <body>
+
+
+<!-- BRAND HEADER -->
+
 <header class="brand-header">
-    <img src="images/hexadox-logo.png" class="logo" alt="HEXADOX Logo">
-    
+
+    <img src="images/hexadox-logo.png" 
+         class="logo" 
+         alt="HEXADOX Logo">
+
+    <p class="subtitle">
+        Dermatology Product Catalogue
+    </p>
+
 </header>
 
-<header>
 
-<h1>HEXADOX</h1>
 
-<p>Dermatology Portfolio</p>
+<!-- HERO TITLE -->
+
+<header class="hero-title">
+
+    <h1>HEXADOX</h1>
+
+    <p>
+        Dermatology Portfolio
+    </p>
 
 </header>
 
 
 
-<div id="home" class="container">
+
+<!-- CATEGORY GLASS TABS -->
+
+<div id="home" class="category-container">
 
 
-<div class="glass category" onclick="openCategory('trichology')">
-Trichology Range
-</div>
+<div class="glass category" 
+onclick="openCategory('trichology')">
 
+    <span class="icon">🧬</span>
 
-<div class="glass category" onclick="openCategory('cosmetology')">
-Cosmetology Range
-</div>
-
-
-<div class="glass category" onclick="openCategory('clinical')">
-Clinical Dermatology Range
-</div>
-
+    <span>
+    Trichology Range
+    </span>
 
 </div>
 
 
 
+
+<div class="glass category" 
+onclick="openCategory('cosmetology')">
+
+    <span class="icon">✨</span>
+
+    <span>
+    Cosmetology Range
+    </span>
+
+</div>
+
+
+
+
+<div class="glass category" 
+onclick="openCategory('clinical')">
+
+    <span class="icon">⚕️</span>
+
+    <span>
+    Clinical Dermatology Range
+    </span>
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+<!-- PRODUCT GALLERY -->
 
 <div id="gallery" class="container hidden">
 
@@ -67,6 +117,10 @@ Clinical Dermatology Range
 
 
 
+
+
+<!-- IMAGE VIEWER -->
+
 <div id="viewer" class="container hidden">
 
 
@@ -79,6 +133,7 @@ Clinical Dermatology Range
 
 
 </div>
+
 
 
 
