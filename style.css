@@ -201,7 +201,25 @@ button{
     border-radius:25px;
 
 }
+.brand-header {
+    text-align: center;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}
 
+.logo {
+    width: 320px;
+    max-width: 90%;
+    height: auto;
+}
+
+.brand-header p {
+    margin-top: 10px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: #007c83;
+    font-weight: 500;
+}
 
 
 .hidden{
