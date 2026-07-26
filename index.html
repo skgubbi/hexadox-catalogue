@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>HEXADOX | Dermatology Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>HEXADOX</h1>
+
+<p>Dermatology Portfolio</p>
+
+</header>
+
+
+
+<div id="home" class="container">
+
+
+<div class="glass category" onclick="openCategory('trichology')">
+Trichology Range
+</div>
+
+
+<div class="glass category" onclick="openCategory('cosmetology')">
+Cosmetology Range
+</div>
+
+
+<div class="glass category" onclick="openCategory('clinical')">
+Clinical Dermatology Range
+</div>
+
+
+</div>
+
+
+
+
+<div id="gallery" class="container hidden">
+
+
+<button onclick="goHome()">
+← Back
+</button>
+
+
+<div id="products" class="grid"></div>
+
+
+</div>
+
+
+
+
+<div id="viewer" class="container hidden">
+
+
+<button onclick="backGallery()">
+← Back
+</button>
+
+
+<img id="largeImage">
+
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
