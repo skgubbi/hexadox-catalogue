@@ -227,3 +227,172 @@ button{
     display:none;
 
 }
+body {
+
+    margin:0;
+    min-height:100vh;
+
+    background:
+    radial-gradient(circle at top,#ffffff 0%,transparent 40%),
+    linear-gradient(135deg,#eafcff,#bdeff2,#f8ffff);
+
+    font-family:
+    "Montserrat",
+    Arial,
+    sans-serif;
+
+}
+
+
+/* HERO */
+
+.hero {
+
+    text-align:center;
+    padding-top:40px;
+
+}
+
+
+.logo {
+
+    width:420px;
+    max-width:85%;
+
+}
+
+
+.subtitle {
+
+    color:#007c83;
+    font-size:22px;
+    letter-spacing:1px;
+
+}
+
+
+.divider {
+
+    width:120px;
+    height:4px;
+
+    margin:20px auto;
+
+    background:#00a8b5;
+    border-radius:10px;
+
+}
+
+
+.hero h1 {
+
+    font-size:70px;
+    letter-spacing:10px;
+
+    color:#008494;
+
+    margin:30px 0 10px;
+
+}
+
+
+.tagline {
+
+    font-size:28px;
+    color:#555;
+
+}
+
+
+
+/* GLASS BUTTONS */
+
+
+.category-container {
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:35px;
+
+    margin-top:80px;
+
+    flex-wrap:wrap;
+
+}
+
+
+
+.glass-card {
+
+
+    width:320px;
+    height:120px;
+
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+
+    gap:20px;
+
+
+    background:
+
+    rgba(255,255,255,0.45);
+
+
+    border:
+
+    1px solid rgba(255,255,255,0.8);
+
+
+    border-radius:35px;
+
+
+    backdrop-filter:blur(15px);
+
+
+    box-shadow:
+
+    0 20px 40px rgba(0,120,130,0.18);
+
+
+    color:#007c83;
+
+
+    font-size:22px;
+
+    font-weight:600;
+
+
+    cursor:pointer;
+
+
+    transition:0.3s;
+
+}
+
+
+
+.glass-card:hover {
+
+    transform:translateY(-8px);
+
+    box-shadow:
+
+    0 30px 60px rgba(0,120,130,0.3);
+
+}
+
+
+
+.icon {
+
+    font-size:40px;
+
+}
