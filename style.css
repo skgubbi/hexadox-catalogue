@@ -369,7 +369,7 @@ button{
 
 /* FULLSCREEN IMAGE VIEWER */
 
-#viewer{
+#viewer:not(.hidden){
 
 
     position:fixed;
@@ -489,4 +489,7 @@ button{
 
 
 
+}
+.hidden{
+    display:none !important;
 }
