@@ -13,13 +13,13 @@ const products = {
 
     trichology:[
 
-        "mincaffin-f.png",
-        "tufhair-tablets.png",
-        "tufhair-serum.png",
-        "mincaffin-oral-tablets.png",
         "mincaffin-plus.png",
+        "mincaffin-f.png",
+        "mincaffin-oral-tablets.png",
+        "tufhair-serum.png",
+        "tufhair-tablets.png",
         "hexaphyte-p-shampoo.png"
-
+        
     ],
 
 
@@ -37,16 +37,16 @@ const products = {
 
     clinical:[
 
+        "grisohex-500-tablets.png",
         "zerophyte-cream.png",
-        "reticlear-gel.png",
         "lulidox-cream.png",
+        "reticlear-gel.png",
+        "bacticort-h-cream.png",
         "isohex-caps.png",
         "hexsalic-cream.png",
         "hexaspor-caps.png",
-        "grisohex-500-tablets.png",
-        "bacticort-h-cream.png",
-        "antihistamines.png"
-
+        "antihistamines.png"  
+        
     ]
 
 };
