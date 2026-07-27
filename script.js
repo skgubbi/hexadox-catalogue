@@ -156,3 +156,15 @@ function goHome(){
 
 
 }
+
+function openFullscreen(src) {
+    const viewer = document.createElement("div");
+    viewer.className = "image-viewer";
+
+    viewer.innerHTML = `
+        <img src="${src}">
+        <button onclick="this.parentElement.remove()">✕</button>
+    `;
+
+    document.body.appendChild(viewer);
+}
