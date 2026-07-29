@@ -13,39 +13,39 @@ const products = {
 
     trichology:[
 
-        "mincaffin-plus.png",
-        "mincaffin-f.png",
-        "mincaffin-oral-tablets.png",
-        "tufhair-serum.png",
-        "tufhair-tablets.png",
-        "hexaphyte-p-shampoo.png"
+        "mincaffin-plus.webp",
+        "mincaffin-f.webp",
+        "mincaffin-oral-tablets.webp",
+        "tufhair-serum.webp",
+        "tufhair-tablets.webp",
+        "hexaphyte-p-shampoo.webp"
         
     ],
 
 
     cosmetology:[
 
-        "neoshield-ultra-plus-50.png",
-        "neohidrate-cream.png",
-        "hydradew-max-cream.png",
-        "hydradew-lotion.png",
-        "octiwash.png",
-        "hexasoft-syndet-bar.png"
+        "neoshield-ultra-plus-50.webp",
+        "neohidrate-cream.webp",
+        "hydradew-max-cream.webp",
+        "hydradew-lotion.webp",
+        "octiwash.webp",
+        "hexasoft-syndet-bar.webp"
 
     ],
 
 
     clinical:[
 
-        "grisohex-500-tablets.png",
-        "zerophyte-cream.png",
-        "lulidox-cream.png",
-        "reticlear-gel.png",
-        "bacticort-h-cream.png",
-        "isohex-caps.png",
-        "hexsalic-cream.png",
-        "hexaspor-caps.png",
-        "antihistamines.png"  
+        "grisohex-500-tablets.webp",
+        "zerophyte-cream.webp",
+        "lulidox-cream.webp",
+        "reticlear-gel.webp",
+        "bacticort-h-cream.webp",
+        "isohex-caps.webp",
+        "hexsalic-cream.webp",
+        "hexaspor-caps.webp",
+        "antihistamines.webp"  
         
     ]
 
